@@ -32,9 +32,9 @@ const QuickActions = ({
       />
       <QuickAction
         onOpenModal={onOpenModal}
-        borderClassName="hover:border-zinc-500/30 "
-        iconBorderClassName="bg-zinc-500/10 border-zinc-500/20 group-hover:bg-zinc-500/20"
-        iconClassName="text-zinc-400"
+        borderClassName="hover:border-purple-500/30 "
+        iconBorderClassName="bg-purple-500/10 border-purple-500/20 group-hover:bg-purple-500/20"
+        iconClassName="text-purple-400"
         tab="text"
         title="Manual Text"
         description="Manually copy-paste FAQs, internal notes, or policies directly into the editor for quick updates."
