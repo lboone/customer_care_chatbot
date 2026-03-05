@@ -45,7 +45,7 @@ const Sidebar = () => {
       <div className="h-16 flex items-center px-6 border-b border-white/5">
         <Logo />
       </div>
-      <nav className="flex-1 p-4 space-y-1 overflow-y-auto">
+      <nav className="flex-1 p-4 space-y-1 overflow-y-auto mt-2">
         {SIDEBAR_ITEMS.map((item) => {
           const isActive = pathname === item.href;
           return (
