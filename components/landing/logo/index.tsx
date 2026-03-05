@@ -7,7 +7,7 @@ const Logo = () => {
         <div className="w-2.5 h-2.5 bg-black rounded-[1px]"></div>
       </div>
       <span className="text-base font-semibold tracking-light text-white/90">
-        Customer Care Chatbot
+        Customer Care Bot
       </span>
     </Link>
   );
